@@ -99,7 +99,7 @@ url={https://openreview.net/forum?id=zVzeKdlCMWX}
 
 ```
 ## Contact
-For any queries, feel free to contact the authors or raise an issue.
+For any queries, feel free to contact at vignesh.nitt10@gmail.com.
 
 ## License
 
