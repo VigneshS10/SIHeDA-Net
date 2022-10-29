@@ -99,8 +99,14 @@ url={https://openreview.net/forum?id=zVzeKdlCMWX}
 
 ```
 ## Contact
-For any queries, feel free to contact at vignesh.nitt10@gmail.com.
+For any queries, feel free to contact any of the authors.
+
+## Authorship Statement
+
+All persons who meet authorship criteria are listed as authors, and all authors certify that they have participated sufficiently in the work to take public responsibility for the content, including participation in the concept, design, analysis, writing, or revision of the manuscript.
 
 ## License
 
 This project is open sourced under [MIT License](LICENSE).
+
+
